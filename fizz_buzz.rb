@@ -1,3 +1,6 @@
+# fizzbuzz example
+# splashinn
+
 def fizzbuzz(number)
 	divisible_by_3 = number % 3 == 0
 	divisible_by_5 = number % 5 == 0
