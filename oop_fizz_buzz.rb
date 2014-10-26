@@ -1,3 +1,6 @@
+# object-oriented fizzbuzz
+# splashinn
+
 class FizzBuzz
 	include Enumerable
 
