@@ -1,6 +1,6 @@
-# FizzBuzz
+## FizzBuzz
 
-## What is this??
+### What is this?
 
 FizzBuzz is a common question interviewers ask developers during a coding interview.
 
