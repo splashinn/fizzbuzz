@@ -2,7 +2,7 @@
 
 ## What is this?
 
-FizzBuzz is a common question interviewers ask developers during a coding interview.
+FizzBuzz is a question interviewers ask developers during a coding interview.
 
 ### Description
 
