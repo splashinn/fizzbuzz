@@ -1,4 +1,4 @@
-# FizzBuzz
+## FizzBuzz
 
 ## What is this?
 
